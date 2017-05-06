@@ -7,25 +7,10 @@ Enterprise Open Source Java Workbook Ebook, book on using open source software i
 
 Preface and Overview
 
-## Chapter2 Dependency Injection
+## Chapter2 Dependency Injection GUICE
 
 Dependency Injection
 
-Eric Hoffer’s made the following statement “In a world of change, the learners shall 
-inherit the earth, while the learned shall find themselves perfectly suited for a world
-that no longer exists” is very relevant for the testing professional in the DevOps world.  
-Ultimately the Spring Framework is designed to give developers an API for developing 
-best practices software.  Spring is not a web server or a GUI library.  
-It is library that promotes testable, maintainable code.  Spring Framework at the 
-core provides an Inversion of Control (IoC) container. Objects are maintained using 
-Dependency Injection (DI).  Spring code is testable, easier to wire components, enhances modular design.  
-One of the basic aspects to Java programming is the 'new' operator which allows you to create an object. 
-That IS CONSIDERED HARMFUL with modern programming techniques.  Use Spring to properly wire up objects.   
-
-
-## Chapter3 SpringMVC
-
-Spring MVC and Spring Boot
 
 ## Chapter4 UnitAndIntegrationTesting
 
