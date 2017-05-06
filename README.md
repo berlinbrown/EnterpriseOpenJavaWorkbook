@@ -1,6 +1,10 @@
 # EnterpriseOpenJavaWorkbook
 Enterprise Open Source Java Workbook Ebook, book on using open source software in your enterprise
 
+Also,
+
+Machine Learning with Apache Spark, Hadoop, Heaton Research Maching Learning, JVM Languages and more.
+
 # Outline and Chapters
 
 ### Chapter1 PrefaceAndOverview
